@@ -1,5 +1,5 @@
 // Name: app-launcher
-// Shortcut: cmd + space  
+// Shortcut: cmd space  
 import "@johnlindquist/kit"
 
 await run(kitPath("main", "app-launcher.js"))
